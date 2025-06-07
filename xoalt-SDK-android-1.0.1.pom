@@ -1,7 +1,6 @@
-<distributionManagement>
-   <repository>
-     <id>github</id>
-     <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://github.com/netbanners/xoalt-SDK-android</url>
-   </repository>
-</distributionManagement>
+<dependency>
+  <groupId>com.github.netbanners</groupId>
+  <artifactId>xoalt-SDK-android</artifactId>
+  <version>1.0.1</version>
+<url>https://github.com/netbanners/xoalt-SDK-android</url>
+</dependency>
