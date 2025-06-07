@@ -4,7 +4,14 @@
     <artifactId>netbanners</artifactId>
     <version>1.0.1</version>
    <packaging>jar</packaging>
-<dependencies>
+
+<repositories>
+  <repository>
+   <id>netbanners repo</id>
+   <url>https://github.com/netbanners/xoalt-SDK-android/tree/main/src/</url>
+  </repository>
+  </repositories>
+  <dependencies>
 <dependency>
   <groupId>com.github.netbanners</groupId>
   <artifactId>xoalt-SDK-android</artifactId>
