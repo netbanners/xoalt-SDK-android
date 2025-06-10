@@ -1,0 +1,11 @@
+<settings>
+
+<servers>
+    <server>
+        <id>netbanners-repo</id>
+        <username>${user}</username>
+        <password>${password}</password>
+    </server>
+</servers>
+
+</settings>
