@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestBannerExample</string>
+
+    <string name="title_home">Banner</string>
+    <string name="title_dashboard">Питер Пэн</string>
+    <string name="title_notifications">Ходячий замок</string>
+    <string name="title_3">Приключения Тома Сойера</string>
+</resources>
